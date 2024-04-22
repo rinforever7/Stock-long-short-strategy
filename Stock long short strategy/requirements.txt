@@ -1,0 +1,7 @@
+python版本                  
+3.9.13 (main, Aug 25 2022, 23:51:50) [MSC v.1916 64 bit (AMD64)]
+第三方库：
+pandas                            1.5.3
+tblib                                1.7.0
+scikit-learn                    1.0.2
+xgboost                           2.0.0
